@@ -1,0 +1,110 @@
+{
+    "_id": {
+      "$oid": "67afb2be0675f1094c4cd81f"
+    },
+    "fullname": "Ayan Hussain",
+    "username": "ayanh052",
+    "password": "B@kwas10",
+    "email": "ayanh052@gmail.com",
+    "linkedinUrl": "https://www.linkedin.com/in/ayan-hussain-488666242/",
+    "socialMedia": null,
+    "profession": "",
+    "gender": null,
+    "genderPreference": null,
+    "selectedTraits": [
+      {
+        "categoryName": "Business Stage",
+        "labels": [
+          "Pre-Revenue"
+        ]
+      },
+      {
+        "categoryName": "Industry Focus",
+        "labels": [
+          "AI/ML",
+          "Marketing Services",
+          "Professional Services"
+        ]
+      },
+      {
+        "categoryName": "Key Business Topics",
+        "labels": [
+          "Staying Ahead of Tech Changes (AI, etc.)",
+          "New Market Expansion",
+          "Closing Sales Deals",
+          "Pitching to Investors",
+          "Specific Investor Connections"
+        ]
+      },
+      {
+        "categoryName": "Networking Preferences",
+        "labels": [
+          "Friday Founders Meetups"
+        ]
+      },
+      {
+        "categoryName": "Personal Interests",
+        "labels": [
+          "Balancing Work & Family"
+        ]
+      },
+      {
+        "categoryName": "Helpful Talents",
+        "labels": [
+          "Product Design",
+          "Business Strategy",
+          "Problem Solving"
+        ]
+      }
+    ],
+    "chatHistory": [
+      {
+        "isUser": false,
+        "content": "You are a business conversation facilitator speaking with a founder. They have selected these business dimensions for discussion:\r\n\r\nBusiness Stage: Pre-Revenue;\nIndustry Focus: AI/ML, Marketing Services, Professional Services;\nKey Business Topics: Staying Ahead of Tech Changes (AI, etc.), New Market Expansion, Closing Sales Deals, Pitching to Investors, Specific Investor Connections;\nNetworking Preferences: Friday Founders Meetups;\nPersonal Interests: Balancing Work & Family;\nHelpful Talents: Product Design, Business Strategy, Problem Solving;\n\r\n\r\nYour role is to conduct a focused, step-by-step conversation. Ask only one question at a time and wait for their response. Start by understanding their core business proposition.\r\n\r\nConversation Guidelines:\r\n- Ask one clear question at a time\r\n- Keep each response under 20 words\r\n- Use maximum 2 emojis per response\r\n- Acknowledge insights from their previous answer before asking the next question\r\n- Focus on specific examples and real experiences\r\n"
+      },
+      {
+        "isUser": false,
+        "content": "What specific problem is your business solving? 💡"
+      },
+      {
+        "isUser": true,
+        "content": "We connect people to relevant people at assciations or events through our AI super connector\n"
+      },
+      {
+        "isUser": false,
+        "content": "What challenges are you facing in expanding to new markets? 🌎"
+      },
+      {
+        "isUser": true,
+        "content": "we are in the 0-1 phase and seeking early adopters to try our MVP and et paying customers to co develop with\n"
+      },
+      {
+        "isUser": false,
+        "content": "I see you're attending Friday Founders Meetups. How have you leveraged these events for your business? 🤝"
+      },
+      {
+        "isUser": true,
+        "content": "to find colloboration opportunies for early adopters. these adopters could be event or conference or association organziers or admin. Even people who attend such events can guve us feedback to make the product better\n"
+      },
+      {
+        "isUser": false,
+        "content": "How do your talents in Product Design and Business Strategy contribute to your unique approach to solving this problem? 🛠️💡"
+      },
+      {
+        "isUser": true,
+        "content": "I am good at customer discovery and findinf pain paoints to build a good product\nsimilarly, I have pivoted multiple times for better business strategy\n"
+      },
+      {
+        "isUser": false,
+        "content": "How do you balance your personal interest in work-family harmony with the demands of your business? ⚖️👪"
+      },
+      {
+        "isUser": true,
+        "content": "I do not. I need help with this from tips from others\n"
+      },
+      {
+        "isUser": false,
+        "content": "**Business Profile Summary**\n\n- **Pre-Revenue Startup** 🚀\n- **Core Competencies:** AI/ML, Marketing Services, Professional Services\n- **Unique Value:** Connecting people through AI super connector at events and associations\n- **Growth Objectives:** Expanding to new markets, closing sales deals, pitching to investors\n- **Challenges:** Finding early adopters, balancing work-family harmony\n- **Collaboration Preferences:** Friday Founders Meetups, specific investor connections\n- **Value to Partners:** Access to early adopters, co-development opportunities, feedback\n\nGo back and click on people to find your connections."
+      }
+    ]
+  }
